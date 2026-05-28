@@ -1,0 +1,28 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+*.egg
+
+# Generated files
+temp_graph.html
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Large data file (133MB, exceeds GitHub 100MB limit)
+MC2/mc2.json
+
+# 2024 data archives (use data source link instead)
+2024-data-main/

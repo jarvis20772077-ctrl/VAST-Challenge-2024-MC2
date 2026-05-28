@@ -1,0 +1,15 @@
+# 数据处理与空间计算
+pandas>=2.0.0
+numpy>=1.23.0
+geopandas>=0.13.0
+shapely>=2.0.0
+scikit-learn>=1.2.0
+
+# 交互式可视化与前端框架
+streamlit>=1.30.0
+plotly>=5.14.0
+
+pandas>=2.0.0
+streamlit>=1.30.0
+plotly>=5.14.0
+pyvis>=0.3.2  # 新增：用于渲染可交互的复杂实体关系网络
