@@ -4,6 +4,15 @@
 
 # 启动：终端输入 streamlit run "...\app.py"  不可直接run程序
 
+## 数据集下载 (Dataset Download)
+
+本项目使用的数据来自 **VAST Challenge 2024 Mini-Challenge 2**。
+
+- 官方挑战页面：https://vast-challenge.github.io/2024/MC2.html
+- 数据下载需通过页面中的 Google Form 提交申请后获取
+
+> 注：仓库中的 `MC2/mc2.json`（133MB）因超过 GitHub 文件大小限制未纳入版本管理，请从上方链接下载后放置于 `MC2/` 目录下。
+
 
 2. 技术架构 (Technical Architecture)
 系统采用模块化设计，确保了从原始数据到情报产出的高效转化：
